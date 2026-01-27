@@ -1,93 +1,100 @@
-# Commons-AI
+# Commons-AI Conference
 
 
 
-## Getting started
+## 1st edition : A community based approach for AI (2025)
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+The Commons AI conference – a community based approach for AI – is part of the [Future of Software Technologies](https://www.futureofsoftwaretechnologies.com/) Conference (9, 10, 11 December 2025) at CNIT FOREST La Defense.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+### Abstract 
+The increased use of generative AI has brought to light areas of fragility and tension within our digital societies, such as the concentration of power, threats to personal data and the homogenisation of knowledge.
 
-## Add your files
+In light of the risks posed by the dominance of a few AI models and the dangers of exploiting freely accessible web resources, there is a growing consensus within open-source communities and digital commons to address these issues and develop AI that respects the resources used, the communities involved and end users.
 
-* [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-* [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+There have been numerous initiatives at different levels, such as setting up infrastructure to host open-source AI projects, creating an LLM Open Source, using open training data, reflecting on data governance in commons approaches, and calling for regulation.
 
-```
-cd existing_repo
-git remote add origin https://code.inno3.eu/ouvert/commons-ai.git
-git branch -M main
-git push -uf origin main
-```
+The aim of this inaugural Commons AI conference is to review initiatives that aim to develop AI using an open, commons-based approach. We will explore the findings that have already been made and consider how to consolidate and pool these initiatives!
 
-## Integrate with your tools
 
-* [Set up project integrations](https://code.inno3.eu/ouvert/commons-ai/-/settings/integrations)
+## Commons AI Program
 
-## Collaborate with your team
+Three sessions was offered throughout the day, each examining one of the three main components of a common: resources, community and governance.
 
-* [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-* [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-* [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-* [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-* [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+### Session 1 – Ressources to produce open, ethical, and inclusive AI
 
-## Test and Deploy
+What are the resource needs of communities to produce open, ethical, and inclusive AI? How can different degrees of openness be articulated according to the components of AI (data, models and algorithms)? What open and sustainable infrastructures are available to support these projects?
 
-Use the built-in continuous integration in GitLab.
+#### OpenLLM France: Building transparent and open AI with a French twist
+**Julie Hunter, Senior Researcher, R&D Team, Linagora**
+- audio
+- presentation
 
-* [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-* [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-* [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-* [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-* [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+#### Open data flows: rethinking AI infrastructure after the synthetic turn
+**Pierre-Carl Langlais, Co-founder, Pleias**
+- audio
+- presentation
 
-***
+#### Data Spaces and Digital Commons: Building a Responsible, Transparent, and Inclusive AI Market
+**Bertrand Monthubert, President, Ekitia
+and Pauline Zordan, Lawyer, Ekitia**
+- audio
+- presentation
 
-# Editing this README
+#### What does it take to build effective AI systems for mapping that improve the environment?
+**Bertrand Pailhes, Head of Data Mapping, IGN**
+- audio
+- presentation
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+#### Round Table Discussion
+Facilitator: Ramya Chandrasekhar, Researcher, CNRS
 
-## Suggestions for a good README
+### Session 2 – Governance and regulatory mechanisms
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+What governance elements have been implemented, or need to be established, to help develop these communities and promote the implementation of these AI models using a commons approach? What regulatory mechanisms are available, whether regulatory or community-based (licences, charters, etc.)?
 
-## Name
-Choose a self-explaining name for your project.
+#### Legal frictions for the re-use of the open web for AI training
+**Ramya Chandrasekhar, Researcher, CNRS**
+- audio
+- presentation
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+#### AI Data governance: The fiduciary model as a path to collective and controlled value Creation
+**Vincent Bachelet, Université Paris 1 Panthéon Sorbonne, Inno3**
+- audio
+- presentation
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+#### Making data commons a prerequisite for the use of artificial intelligence
+**Jean Cattan, Head of the National Initiative AI Café**
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+#### Probabl.ai’s governance and revenue model: a critical open-source AI commons
+**Yann Lechelle, CEO, Probabl**
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+#### Round Table Discussion
+Facilitator: Benjamin Jean, Founder and President, Inno3
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+### Session 3 – Communities, contribution and dialogue
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+How are communities organised to bring together diverse actors in order to support and maintain AI as a commons? What contributions does each member make? What economic balances have been found? How can different profiles (e.g. developers, data curators and users) be brought into dialogue?
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+#### When communities and industry cooperate: towards sustainable AI
+**Jean-Baptiste Kempf, President, VideoLAN / CEO Kyber / Tech Fellow Scaleway**
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+#### Une IA d’intérêt général indépendante des GAFAM : quels rôles pour les communautés ? (in French)
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+Round table featuring:
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+    Jean-Marc Borredon, Director of Communication, Ville d’Annemasse
+    Raphaël Bournhonesque, Machine Learning Engineer, Open Food Facts
+    Jeanne Brétecher, Founder and Director, Social Good Accelerator
+    Pierre-Yves Gosset, Digital Services Coordinator, Framasoft
+    Jean-Philippe Clément, Deputy Director General, Ville de Paris
+
+- audio
+- presentation
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Coordination : Celya Gruson Daniel and Benjamin Jean ([Inno3](https://inno3.fr/))
+Host : FOST organisers (Medhid Medjaoui and Oriane Durand)
 
 ## License
-For open source projects, say how it is licensed.
+Content is under Licence CC BY SA 4.0 
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
